@@ -1,0 +1,7 @@
+venv/
+build/
+dist/
+*.exe
+pivot_table.xlsx
+report_*.xlsx
+__pycache__/
